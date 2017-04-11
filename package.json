@@ -1,0 +1,27 @@
+{
+  "name": "lean-ddp",
+  "version": "0.0.1",
+  "description": "A pure javascript ddp client for running in browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leaf4monkey-npm/ddp.git"
+  },
+  "keywords": [
+    "meteor",
+    "ddp"
+  ],
+  "author": "leaf4monkey <joc98@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leaf4monkey-npm/ddp/issues"
+  },
+  "homepage": "https://github.com/leaf4monkey-npm/ddp#readme",
+  "dependencies": {
+    "ddp.js": "2.2.0",
+    "ejson": "^2.1.2"
+  }
+}
